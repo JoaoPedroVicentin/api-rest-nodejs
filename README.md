@@ -9,7 +9,7 @@
 <li>Listar transações.</li>
 <li>Buscar uma transação.</li>
 <li>Calcular valor das transações.</li>
-<li>armazenamento em um banco de dados.</li>
+<li>Armazenamento em banco de dados.</li>
 <li>Testes unitários.</li>
 
 <br>
